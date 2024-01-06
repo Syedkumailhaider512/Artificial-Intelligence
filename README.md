@@ -7,7 +7,7 @@ Welcome to the AI Projects repository! This repository contains a collection of 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Projects List](#projects-list)
-- [Contributing](#contributing)
+- [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
 ## Features
